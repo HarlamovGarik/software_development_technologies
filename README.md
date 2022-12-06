@@ -76,7 +76,7 @@ Testing lib pytest<br>
 |WarningsRecorder|1|1|20|3|28|0|
 |pytestPDB|0|0|21|0|26|0|
 |cmdline|0|0|21|0|22|0|
-<br>
+
 |Closed Methods Factor|Method Inheritance Factor|Polymorphism Factor|
 |:----:               |                   :----:|             :----:|
 |0.000614628          |                0.0884558|            6.21053|
