@@ -21,9 +21,9 @@ Physical SLOC:
 Lab 7<br>
 
 Testing lib pytest<br>
-|Name  |Inheritance Depth|N-Children|N-Inherited Methods|N-Overridden Methods|N-Visible Methods|N-Private Methods|<br>
-|:----:|             ---:|      ---:|               ---:|                ---:|             ---:|             ---:|<br>
-|Cache |                0|         0|                 12|                   8|               30|                0|<br>
+|Name  |Inheritance Depth|N-Children|N-Inherited Methods|N-Overridden Methods|N-Visible Methods|N-Private Methods|
+|:----:|             ---:|      ---:|               ---:|                ---:|             ---:|             ---:|
+|Cache |                0|         0|                 12|                   8|               30|                0|
 
 |CallInfo1|0|13|8|23|0|<br>
 |CaptureFixture1|0|21|1|29|0|<br>
