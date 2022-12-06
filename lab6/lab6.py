@@ -23,5 +23,5 @@ def analyze_lib(path):
     return total_lines, empty_lines, comment_lines, comment_lines / total_lines
 
 
-lib_statistic = analyze_lib("../../dsml-privat")
+lib_statistic = analyze_lib("./test_project/euro-diffusion-main")
 print(f'Physical SLOC:\n\ttotal lines {lib_statistic[0]}\n\tempty lines {lib_statistic[1]}\n\tcomment lines {lib_statistic[2]}\n\tcomment_ratio {lib_statistic[3]}\n')
