@@ -1,4 +1,4 @@
-# software_development_technologies
+# Software-Development-Technologies
 
 Summary<br>
 Lab6<br>
@@ -22,7 +22,7 @@ Lab 7<br>
 
 Testing lib pytest<br>
 |Name  |Inheritance Depth|N-Children|N-Inherited Methods|N-Overridden Methods|N-Visible Methods|N-Private Methods|
-|:----:|             ---:|      ---:|               ---:|                ---:|             ---:|             ---:|
+|:---|             ---:|      ---:|               ---:|                ---:|             ---:|             ---:|
 |Cache |                0|         0|                 12|                   8|               30|                0|
 |CallInfo|1|0|13|8|23|0|
 |CaptureFixture|1|0|21|1|29|0|
@@ -63,19 +63,20 @@ Testing lib pytest<br>
 |PytestUnraisableExceptionWarning|5|0|23|0|23|0|
 |PytestWarning|4|10|23|0|23|0|
 |Pytester|0|0|19|2|61|1|
-|RecordedHookCall0|0|19|2|21|0|<br>
-|RunResult0|0|19|2|24|0|<br>
-|Session3|0|35|5|49|0|<br>
-|Stash0|0|20|1|28|0|<br>
-|StashKey1|0|22|0|22|0|<br>
-|TempPathFactory0|0|12|8|25|0|<br>
-|TempdirFactory0|0|12|8|23|0|<br>
-|TestReport1|0|24|2|27|0|<br>
-|Testdir0|0|18|3|57|0|<br>
-|UsageError2|0|23|0|23|0|<br>
-|WarningsRecorder1|1|20|3|28|0|<br>
-|pytestPDB0|0|21|0|26|0|<br>
-|cmdline0|0|21|0|22|0|<br>
-  Closed Methods Factor    Method Inheritance Factor    Polymorphism Factor<br>
------------------------  ---------------------------  ---------------------<br>
-            0.000614628                    0.0884558                6.21053<br>
+|RecordedHookCall|0|0|19|2|21|0|
+|RunResult|0|0|19|2|24|0|
+|Session|3|0|35|5|49|0|
+|Stash|0|0|20|1|28|0|
+|StashKey|1|0|22|0|22|0|
+|TempPathFactory|0|0|12|8|25|0|
+|TempdirFactory|0|0|12|8|23|0|
+|TestReport|1|0|24|2|27|0|
+|Testdir|0|0|18|3|57|0|
+|UsageError|2|0|23|0|23|0|
+|WarningsRecorder|1|1|20|3|28|0|
+|pytestPDB|0|0|21|0|26|0|
+|cmdline|0|0|21|0|22|0|
+<br>
+|Closed Methods Factor|Method Inheritance Factor|Polymorphism Factor|
+|:----:|:----:|:----:|
+|0.000614628|0.0884558|6.21053|
