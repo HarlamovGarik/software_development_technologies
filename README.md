@@ -78,5 +78,5 @@ Testing lib pytest<br>
 |cmdline|0|0|21|0|22|0|
 <br>
 |Closed Methods Factor|Method Inheritance Factor|Polymorphism Factor|
-|:----:|:----:|:----:|
-|0.000614628|0.0884558|6.21053|
+|:----:               |                   :----:|             :----:|
+|0.000614628          |                0.0884558|            6.21053|
