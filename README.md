@@ -1,7 +1,7 @@
 # Software-Development-Technologies
+## Summary<br>
 
-Summary<br>
-Lab6<br>
+### Lab6<br>
 
 Testing previos project Euro Diffusion<br>
 Physical SLOC:<br>
@@ -18,7 +18,7 @@ Physical SLOC:
 * comment_ratio 0.12511584800741427
 
 
-Lab 7<br>
+### Lab 7<br>
 
 Testing lib pytest<br>
 |Name  |Inheritance Depth|N-Children|N-Inherited Methods|N-Overridden Methods|N-Visible Methods|N-Private Methods|
