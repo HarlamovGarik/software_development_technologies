@@ -48,8 +48,8 @@ class City:
                 elif distance_num <= self.distances_amount:
                     distance_num += 1
                     if self.current_case.status and self.line_is_correct(line, 1, line_num):
-                        optimal_position = self.get_optimal_position(line)
-                        self.current_case.add_optimal_position(optimal_position)
+                            optimal_position = self.get_optimal_position(line)
+                            self.current_case.add_optimal_position(optimal_position)
 
                     if distance_num > self.distances_amount:
                         self.clear_variables()
@@ -57,7 +57,7 @@ class City:
                         distance_num = 1
             else:
                 if self.line_is_correct(line, 4, line_num):
-                    self.start_case(line)
+                        self.start_case(line)
                 elif self.is_end(line):
                     break
 
@@ -118,7 +118,7 @@ class City:
                 return True
 
         elif len(line) == 1:
-            if not 1 < int(line[0]) < self.MAX_DISTANCE:
+            if not 0 < int(line[0]) < self.MAX_DISTANCE:
                 self.errors.append('Error. Distance must be > 0 and < %d' % (self.MAX_DISTANCE, line_num))
                 self.current_case.status = False
                 return False
